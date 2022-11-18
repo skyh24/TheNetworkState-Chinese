@@ -1,4 +1,4 @@
-### Description
+# Description
 
 描述
 
@@ -6,7 +6,7 @@ Technology has enabled us to start new companies, new communities, and new curre
 
 技术赋予了我们创办新型公司、新型社区和新货币的能力。可是我们是否用技术来建立新型城市，甚至新型国家？本书解释了如何建立民族国家的后继者，一个我们称之为网络国家的概念。
 
-# Chapter 1 Quickstart
+# ![Quickstart Chapter Image](https://book.thenetworkstate.com/assets/quickstart-sectioned.png)Chapter 1 Quickstart
 
 第一章：快速开始
 
@@ -94,4 +94,61 @@ Continued growth is a continuous plebiscite, a vote of confidence by the people 
 
 That doesn’t mean each network state must grow to infinity, or that all states need accept the same kind of person, but that the community of network states as a whole is focused on building admirable societies that people want to join. Different states will focus on different metrics; imagine a network state premised on improving its citizens’ overall [life expectancy](https://twitter.com/balajis/status/1287395551487524864), or one aimed at provably right-shifting the [income distribution](https://www.gapminder.org/fw/income-mountains/) for all. You get what you measure.
 
-这并不意味着每个网络国家必须发展到无限大，也不意味着所有的国家都需要接受同一类人，而是意味着网络国家的社区作为一个整体，专注于建立人们愿意加入的令人景仰的社会。不同的国家将专注于不同的衡量标准；想象一下，一个网络国家的前提是提高其公民的整体[预期寿命](https://twitter.com/balajis/status/1287395551487524864)，或者一个旨在为所有人证明正确转变[收入分配](https://www.gapminder.org/fw/income-mountains/)的国家。你得到你所衡量的。
+这并不意味着每个网络国家必须发展到无限大，也不意味着所有的国家都需要接受同一类人，而是意味着网络国家的社区作为一个整体，专注于建立人们愿意加入的令人景仰的社会。不同的国家将专注于不同的衡量标准；想象一下，一个网络国家的前提是提高其公民的整体 [预期寿命](https://twitter.com/balajis/status/1287395551487524864)，或者一个旨在为所有人证明正确转移 [收入分配](https://www.gapminder.org/fw/income-mountains/)的国家。你得到你所想的。
+
+## The Network State in One Thousand Words
+
+一千字描述网络国家
+
+![Network State Flag Image](https://book.thenetworkstate.com/assets/the-network-state-01-v4.svg)
+
+Technology has allowed us to start new companies, new communities, and new currencies. But can we use it to create new cities, or even new countries? A key concept is to go cloud first, land last — but not land never — by starting with an online community and then materializing it into the physical world. We get there in seven steps:
+
+技术使我们能够创办新公司、新社区和新货币。但我们能不能用它来创造新的城市，甚至新的国家？一个关键的概念是先有云，后有地--但不是永远没有地--从一个在线社区开始，然后将其具象化到物理世界。我们通过七个步骤达到这个目的。
+
+
+
+
+
+
+
+1. *4.众筹物理节点。*一旦建立了足够的信任并积累了资金，就开始众筹公寓、房屋[和](https://prospera.hn/)[甚至](https://archive.ph/TUqiw#selection-1315.0-1315.99)[城镇](https://www.culdesac.com/)，将数字公民带入真实的共同生活社区的物理世界中。
+2. *5.以数字方式连接物理社区。*将这些物理节点连接成一个*网络群岛*，一组数字连接的物理领土分布在世界各地。网络群岛的节点范围从一个人的公寓到任意规模的人际社区。[物理访问](https://twitter.com/hm0429/status/1465241679800111107)是通过持有web3加密护照而获得的，[混合现实](https://twitter.com/balajis/status/1459554005105840132)被用来无缝连接在线和离线世界。
+3. *6.进行链上人口普查。*随着社会规模的扩大，进行一次可加密审计的人口普查，以证明你的人口、收入和房地产足迹的增长规模。这是一个初创社会在面对怀疑时证明其吸引力的方法。
+4. *一个具有足够规模的初创社会最终应该能够通过谈判获得至少一个先前存在的政府的外交承认，并从那里逐渐增加主权，慢慢成为一个真正的*网络国家*。
+
+1. *Found a startup society.* This is simply an online community with aspirations of something greater. Anyone can found one, just like anyone can found a company or cryptocurrency.[2](https://thenetworkstate.com/footnotes#fn.2) And the founder’s legitimacy comes from whether people opt to follow them.
+
+   *创建初创社会*，这是一个简单在线社区并有更大愿景。任何人都可以创建一个，就像任何人都可以创建一个公司或加密货币一样。[2](https://thenetworkstate.com/footnotes#fn.2)而创始人的合法性来自于人们是否选择跟随他们。
+
+2. *Organize it into a group capable of collective action.* Given a sufficiently dedicated online community, the next step is to organize it into a *[network union](https://thenetworkstate.com/network-union)*. Unlike a social network, a network union has a purpose: it coordinates its members for their mutual benefit. And unlike a traditional union, a network union is not set up solely in opposition to a particular corporation, so it can take a variety of different collective actions.[3](https://thenetworkstate.com/footnotes#fn.3) Unionization is a key step because it turns an otherwise ineffective online community into a group of people working together for a common cause.
+
+   *组织一个能够集体行动的团体。*如果有一个足够专注的在线社区，下一步就是将其组织成一个[网络联盟](https://thenetworkstate.com/network-union)。与社会网络不同，网络联盟有一个目的：该联盟协调成员，以实现他们的共同利益。而且与传统的工会不同，网络工会的建立并不只是为了反对某个特定的公司，所以它可以采取各种不同的集体行动。[3](https://thenetworkstate.com/footnotes#fn.3) 团结是一个关键步骤，因为它将一个原本无效的网络社区变成一个为共同事业而工作的群体。
+
+3. *Build trust offline and a cryptoeconomy online.* Begin holding in-person meetups in the physical world, of increasing [scale and duration](https://twitter.com/balajis/status/1305886351737249792), while simultaneously building an internal economy using cryptocurrency.
+
+   *建立线下的信任和线上的加密经济。*开始在现实世界中举行面对面的聚会，随着[规模和持续时间](https://twitter.com/balajis/status/1305886351737249792)不断增加，同时使用加密货币建立一个内部经济。
+
+4. *Crowdfund physical nodes.* Once sufficient trust has been built and funds have been accumulated, start crowdfunding apartments, houses, [and](https://prospera.hn/) [even](https://archive.ph/TUqiw#selection-1315.0-1315.99) [towns](https://www.culdesac.com/) to bring digital citizens into the physical world within real co-living communities.
+
+   *众筹物理节点。*一旦建立了足够的信任并积累了资金，就开始众筹公寓、房屋[和](https://prospera.hn/)[甚至](https://archive.ph/TUqiw#selection-1315.0-1315.99)[城镇](https://www.culdesac.com/)，将数字公民带入真实的共同生活社区的物理世界中。
+
+5. *Digitally connect physical communities.* Link these physical nodes together into a *network archipelago*, a set of digitally connected physical territories distributed around the world. Nodes of the network archipelago range from one-person apartments to in-person communities of arbitrary size. [Physical access](https://twitter.com/hm0429/status/1465241679800111107) is granted by holding a web3 cryptopassport, and [mixed reality](https://twitter.com/balajis/status/1459554005105840132) is used to seamlessly link the online and offline worlds.
+
+   *以数字化连接真实社区。*将这些物理节点连接成一个*网络群岛*，一组数字连接的物理领土分布在世界各地。网络群岛的节点范围从一个人的公寓到任意规模的人际社区。[物理访问](https://twitter.com/hm0429/status/1465241679800111107)是通过持有web3加密护照而获得的，[混合现实](https://twitter.com/balajis/status/1459554005105840132)被用来无缝连接在线和离线世界。
+
+6. *Conduct an on-chain census.* As the society scales, run a cryptographically auditable census to demonstrate the growing size of your population, income, and real-estate footprint. This is how a startup society proves traction in the face of skepticism.
+
+   *进行链上人口普查。*随着社会规模的扩大，进行一次可加密审计的人口普查，以证明你的人口、收入和资产足迹的增长规模。这是一个初创社会在面对怀疑时证明其吸引力的方法。
+
+7. *Gain diplomatic recognition.* A startup society with sufficient scale should eventually be able to negotiate for diplomatic recognition from at least one pre-existing government, and from there gradually increased sovereignty, slowly becoming a true *network state*.
+
+   *获得外界承认。*一个具有足够规模的初创社会能够通过谈判最终获得至少一个现存的政府的外交承认，并从那里逐渐增加主权，慢慢成为一个真正的*网络国家*。
+
+The key idea is to populate the land from the cloud, and do so all over the earth. Unlike an ideologically [disaligned](https://www.visualcapitalist.com/charts-americas-political-divide-1994-2017) and geographically centralized legacy state, which packs millions of disputants in one place, a network state is ideologically aligned but geographically decentralized. The people are spread around the world in clusters of varying size, but their hearts are in one place.
+
+关键的想法是要在云端延伸到地球上的土地。与意识形态[不一致](https://www.visualcapitalist.com/charts-americas-political-divide-1994-2017)和地理集中的传统国家不同，网络国家在意识形态上是一致的，但地理上是分散的。人们分布在世界各地，形成大小不一的集群，但他们的心都在一个地方。
+
+As the population and economy of a startup society grow comparable to that of a legacy state, with millions of citizens and billions in income, it should eventually[4](https://thenetworkstate.com/footnotes#fn.4) be able to attain recognition from existing sovereigns — and ultimately the United Nations — just as Bitcoin has now become a bona fide [national currency](https://twitter.com/nayibbukele/status/1402507224916836352).
+
+随着初创社会的人口和经济增长与传统国家相当，拥有数百万公民和数十亿收入，它最终[4](https://thenetworkstate.com/footnotes#fn.4)能够获得现有主权国家的承认--并最终获得联合国的承认--就像比特币现在已经成为一种真正的[国家货币](https://twitter.com/nayibbukele/status/1402507224916836352)。
