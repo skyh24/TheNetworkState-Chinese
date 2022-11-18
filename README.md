@@ -106,17 +106,6 @@ Technology has allowed us to start new companies, new communities, and new curre
 
 技术使我们能够创办新公司、新社区和新货币。但我们能不能用它来创造新的城市，甚至新的国家？一个关键的概念是先有云，后有地--但不是永远没有地--从一个在线社区开始，然后将其具象化到物理世界。我们通过七个步骤达到这个目的。
 
-
-
-
-
-
-
-1. *4.众筹物理节点。*一旦建立了足够的信任并积累了资金，就开始众筹公寓、房屋[和](https://prospera.hn/)[甚至](https://archive.ph/TUqiw#selection-1315.0-1315.99)[城镇](https://www.culdesac.com/)，将数字公民带入真实的共同生活社区的物理世界中。
-2. *5.以数字方式连接物理社区。*将这些物理节点连接成一个*网络群岛*，一组数字连接的物理领土分布在世界各地。网络群岛的节点范围从一个人的公寓到任意规模的人际社区。[物理访问](https://twitter.com/hm0429/status/1465241679800111107)是通过持有web3加密护照而获得的，[混合现实](https://twitter.com/balajis/status/1459554005105840132)被用来无缝连接在线和离线世界。
-3. *6.进行链上人口普查。*随着社会规模的扩大，进行一次可加密审计的人口普查，以证明你的人口、收入和房地产足迹的增长规模。这是一个初创社会在面对怀疑时证明其吸引力的方法。
-4. *一个具有足够规模的初创社会最终应该能够通过谈判获得至少一个先前存在的政府的外交承认，并从那里逐渐增加主权，慢慢成为一个真正的*网络国家*。
-
 1. *Found a startup society.* This is simply an online community with aspirations of something greater. Anyone can found one, just like anyone can found a company or cryptocurrency.[2](https://thenetworkstate.com/footnotes#fn.2) And the founder’s legitimacy comes from whether people opt to follow them.
 
    *创建初创社会*，这是一个简单在线社区并有更大愿景。任何人都可以创建一个，就像任何人都可以创建一个公司或加密货币一样。[2](https://thenetworkstate.com/footnotes#fn.2)而创始人的合法性来自于人们是否选择跟随他们。
